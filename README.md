@@ -1,16 +1,23 @@
-## Hi there 👋
+Bienvenue, I'm Angelica 👋
 
-<!--
-**Angeliquuee/Angeliquuee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Field Technician** based out of Las Vegas, NV and a Cybersecurity student currently pursuing a B.S. in Cybersecurity and Information Assurance at Western Governors University (WGU).
 
-Here are some ideas to get you started:
+My GitHub is a collection of projects, labs, notes, and experiments that document my journey in IT, networking, systems administration, and cybersecurity. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Connect with me [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/angelica-ocular/)*
+
+## Certificates
+
+![Static Badge](https://img.shields.io/badge/A%2B-red?style=for-the-badge&logo=comptia&logoSize=auto)  ![Static Badge](https://img.shields.io/badge/Network%2B-red?style=for-the-badge&logo=comptia&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Security%2B-red?style=for-the-badge&logo=comptia&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/CCNA-blue?style=for-the-badge&logo=cisco&logoColor=ffffff&logoSize=auto) ![Static Badge](https://img.shields.io/badge/GIAC%20GPEN-gold?style=for-the-badge&logo=hackthebox&logoColor=000&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Certified%20in%20Cybersecurity-green?style=for-the-badge&logo=isc2&logoColor=fff&logoSize=auto)
+
+## Future Goals (2027)
+
+![Static Badge](https://img.shields.io/badge/Project%2B-red?style=for-the-badge&logo=comptia&logoColor=fff&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Data%2B-red?style=for-the-badge&logo=comptia&logoColor=fff&logoSize=auto) ![Static Badge](https://img.shields.io/badge/CySA%2B-red?style=for-the-badge&logo=comptia&logoColor=fff&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/ITIL%204%20Foundation-lavender?style=for-the-badge&logo=hackthebox&logoColor=fff&logoSize=auto&color=a524db) ![Static Badge](https://img.shields.io/badge/Certified%20Cloud%20Security%20Professional-green?style=for-the-badge&logo=isc2&logoColor=fff&logoSize=auto) 
+![Static Badge](https://img.shields.io/badge/Systems%20Security%20Certified%20Practitioner-green?style=for-the-badge&logo=isc2&logoColor=fff&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Linux%20Essentials%20-blue?style=for-the-badge&logo=linuxprofessionalinstitute&logoColor=fff&logoSize=auto)
+
+
+## Tech Stack
+
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" alt="Ruby" title="Ruby" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" alt="Neovim" title="Neovim" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a> </p>
