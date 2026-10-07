@@ -1,10 +1,10 @@
-Bienvenue, I'm Angelica 👋
+# Bienvenue, I'm Angelica 👋
 
 I am a **Field Technician** based out of Las Vegas, NV and a Cybersecurity student currently pursuing a B.S. in Cybersecurity and Information Assurance at Western Governors University (WGU).
 
 My GitHub is a collection of projects, labs, notes, and experiments that document my journey in IT, networking, systems administration, and cybersecurity. 
 
-*Connect with me [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/angelica-ocular/)*
+**Connect with me [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/angelica-ocular/)**
 
 ## Certificates
 
