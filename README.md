@@ -2,7 +2,16 @@
 
 I am a **Field Technician** based out of Las Vegas, NV and a Cybersecurity student currently pursuing a B.S. in Cybersecurity and Information Assurance at Western Governors University (WGU).
 
-My GitHub is a collection of projects, labs, notes, and experiments that document my journey in IT, networking, systems administration, and cybersecurity. 
+My background is rooted in hands-on IT support, troubleshooting, networking, and systems administration, with a growing focus on cybersecurity, infrastructure security, and automation.
+
+This GitHub documents my journey through labs, projects, certifications, notes, and experiments across networking, Linux, Windows, cloud, and security. I believe the best way to learn technology is to build it, break it, troubleshoot it, and understand why it works.
+
+**Currently focused on**:
+- 🔐 Cybersecurity & security operations
+- 🌐 Networking & infrastructure
+- 🐧 Linux & systems administration
+- ☁️ Cloud & AWS
+- 🐍 Python & automation
 
 ## Certificates
 
