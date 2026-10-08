@@ -1,6 +1,6 @@
 # Bienvenue, I'm Angelica 👋
 
-I am a **Field Technician** based out of Las Vegas, NV and a Cybersecurity student currently pursuing a B.S. in Cybersecurity and Information Assurance at Western Governors University (WGU).
+I am a **Field Technician** based out of Las Vegas, NV and a passionate IT student currently pursuing a B.S. in Cybersecurity and Information Assurance at Western Governors University (WGU).
 
 My background is rooted in hands-on IT support, troubleshooting, networking, and systems administration, with a growing focus on cybersecurity, infrastructure security, and automation.
 
@@ -12,6 +12,7 @@ This GitHub documents my journey through labs, projects, certifications, notes, 
 - 🐧 Linux & systems administration
 - ☁️ Cloud & AWS
 - 🐍 Python & automation
+- 🛡️ SOC Home Lab Build
 
 ## Certificates
 
